@@ -4,8 +4,8 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import {} from './Context/index'
 import { TodoProvider } from './Context/TodoContext'
-import {Todoform} from './Components/Todoform'
-import {Todoitem} from './Components/Todoitem'
+
+
 import index from './Components/index'
 
 function App() {
